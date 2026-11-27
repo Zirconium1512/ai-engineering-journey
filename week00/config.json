@@ -1,0 +1,7 @@
+{
+  "model": "bert",
+  "epochs": 10,
+  "metrics": {
+    "accuracy": 0.91
+  }
+}
